@@ -8,6 +8,8 @@ Hỗ trợ các thiết bị:<b>
 - Amazfit Arc
 </b>
 
+********VUI LÒNG KÉO XUỐNG DƯỚI CÙNG ĐỂ XEM HDSD MỘT SỐ LỖI MÀ CÁC BẠN THẮC MẮC********
+
 <b>Nếu gặp lỗi kết nối:</b>
 - Màn hình ứng dụng gần đây: Khoá Mi Bandage (Kéo ứng dụng xuống và bấm vào biểu tượng khoá)
 - Cài đặt Pin/Tối ưu Pin: Chọn không tối ưu cho Mi Banage
@@ -43,23 +45,20 @@ Hỗ trợ các thiết bị:<b>
 - giám sát thiết bị: nếu ai đó can thiệp vào thiết bị khi bạn đi vắng, bạn sẽ biết (đánh thức màn hình, bật nguồn, chuyển động): thông báo trên thiết bị và biểu tượng Weibo trên Band
 
 <b>Giám sát thông báo:</b>
-- unique signal configuration for apps notification
-- displays the app's notification texts on Band
-- pre icon/vibration to have more time to watch the Band
 - cấu hình tín hiệu duy nhất cho thông báo ứng dụng
- - hiển thị văn bản thông báo của ứng dụng trên Band
- - biểu tượng/rung trước để có nhiều thời gian hơn để xem Band
+- hiển thị văn bản thông báo của ứng dụng trên Band
+- biểu tượng/rung trước để có nhiều thời gian hơn để xem Band
   
 <b>Giám sát chạm:</b>
 - trả lời cuộc gọi, loa ngoài (tắt ứng dụng nhạc khởi chạy khi cài đặt tai nghe được kết nối, nếu không thì nhạc bắt đầu) (không phải tất cả các thiết bị đều được hỗ trợ)
 - từ chối cuộc gọi, kết thúc (không phải tất cả các thiết bị đều được hỗ trợ)
 - gọi ra
 - tắt tiếng cuộc gọi
-- tìm thiết bị của tôi
+- tìm thiết bị của bạn
 - lặp lại thông báo điện thoại trên vòng đeo tay
 - điều khiển trình phát nhạc (phát, tạm dừng, tiếp theo, trước đó, tăng / giảm âm lượng, hiển thị thông tin bản nhạc)
 - bắt đầu hẹn giờ / đồng hồ bấm giờ / khoảng thời gian, hiển thị thời gian còn lại / trôi qua
-- chụp một tấm
+- chụp ảnh
 - trình khởi chạy ứng dụng
 - Trình khởi chạy tác vụ
   
@@ -100,3 +99,16 @@ Portuguese (translated by Bruno Lopes)
 Turkish (translated by Fatih GÜL)
 Greek (translated by Alexandros Apostolidis)
 Tiếng Việt (dịch bởi Nguyễn Mạnh Hưng https://www.facebook.com/HungMN00)
+
+
+1. Về kết nối Band
+  - Mình thường kết nối với Mi Fit trước, sau đó qua Mi Bandage, chọn mục dùng Kết hợp với Mi Fit, dùng sẽ không gặp lỗi
+  - Dùng độc lập cũng được, nhưng mỗi lần huỷ kết nối Mi Fit với Band thì sẽ mất dữ liệu nhé
+2. Về vấn đề bản quyền
+  - Sau khi mua bản quyền, bạn nên tắt Mi Bandage và mở lại, trường hợp vẫn không được, vui lòng kiểm tra thanh toán đã được thực hiện chưa, hoặc gởi email về cho Tibor
+  - Nếu thay điện thoại khác, bạn phải nhập lại email đã thực hiện mua hàng trước đó.
+3. Chế độ mất điện thoại/Band
+  - Đầu tiên, tắt chức năng Giám sát mất
+  - Tiếp theo, tắt chế độ đo nhịp tim, vào mục chạm/Cài đặt/Phương thức phát hiện chạm/Tiết kiệm pin và vào Thông báo/Cài đặt/Lặp lại nhắc nhở trên 20'
+4. Lỗi dấu khi xem tin nhắn Tiếng Việt
+  - Đổi ngôn ngữ sang Tiếng Việt
