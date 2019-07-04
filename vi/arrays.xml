@@ -97,8 +97,8 @@
     </string-array>
 
     <string-array name="touch_call_mute_ringer_mode">
-        <item>Vibrate</item>
-        <item>Mute</item>
+        <item>Rung</item>
+        <item>Yên lặng</item>
         <item>Không làm phiền (Chỉ ưu tiên)</item>
         <item>Không làm phiền (Chỉ báo thức)</item>
         <item>Không làm phiền (Hoàn toàn im lặng)</item>
@@ -119,8 +119,8 @@
     </string-array>
 
     <string-array name="touch_camera_app">
-        <item>Default (root is needed)</item>
-        <item>Open Camera</item>
+        <item>Mặc định (cần quyền root)</item>
+        <item>Mở Camera</item>
     </string-array>
 
     <string-array name="pref_timer_time_interval_repeat">
@@ -165,7 +165,7 @@
     </string-array>
 
     <string-array name="notification_group_display_time">
-        <item>Auto (3 – 5 giây)</item>
+        <item>Tự động (3 – 5 giây)</item>
         <item>3 giây</item>
         <item>4 giây</item>
         <item>5 giây</item>
@@ -203,8 +203,8 @@
     </string-array>
 
     <string-array name="pref_weather_unit">
-        <item>Metric (Celsius ℃)</item>
-        <item>Imperial (Fahrenheit ℉)</item>
+        <item>Hệ Mét (Độ ℃)</item>
+        <item>Hệ Anh (Độ ℉)</item>
     </string-array>
 
     <string-array name="pref_weather_current_display">
